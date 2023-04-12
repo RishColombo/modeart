@@ -680,7 +680,7 @@ hr{
     }
 
     .review{
-        padding-top: 70px;
+        padding: 70px;
         width: 70vw;
     }
 
@@ -688,6 +688,10 @@ hr{
         position: static;
         top: 0px;
         margin: auto;
+    }
+    
+    .review3{
+        margin-top: 10px;
     }
 
     .customer-review{
