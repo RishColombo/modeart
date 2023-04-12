@@ -590,7 +590,7 @@ hr{
     }
     
     .service-content{
-        margin-top: 120px;
+        margin-top: 150px;
         padding-top: 0px;
     }
 
@@ -607,13 +607,14 @@ hr{
     .service-2 .row{
         flex-direction: column-reverse;
     }
+    
     .s2{
         padding-left: 20px;
         padding-right: 0;
     }
 
     .t2{
-        margin-top: 170px;
+        margin-top: 180px;
         text-align: left;
     }
 
