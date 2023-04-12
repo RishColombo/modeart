@@ -8,7 +8,7 @@
 .container{
     max-width: 1200px;
     margin: auto;
-    padding-top: 50px;
+    padding: 50px 25px 0;
 }
 
 .btn1{
@@ -481,7 +481,7 @@ hr{
 /* End Footer Area */
 
 /* Start Media Query */
-@media screen and (max-width: 600px)
+@media only screen and (max-width: 800px)
 {
     .container{
         max-width: 85%;
